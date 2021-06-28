@@ -1,4 +1,4 @@
-# Hi there! I'm Lance 👋 👨🏻‍💻
+# Hi there! I'm Lance 👋 👨🏻‍💻 ![](https://visitor-badge.glitch.me/badge?page_id=lancemccluskey.lancemccluskey)
 
 ![alt text](https://github.com/lancemccluskey/lancemccluskey/blob/main/lance-readme.svg)
 
