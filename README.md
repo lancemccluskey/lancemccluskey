@@ -2,10 +2,9 @@
 
 ![alt text](https://github.com/lancemccluskey/lancemccluskey/blob/master/lance-readme.svg)
 
-- 🔭 I’m currently working on improving my proficiency `Nextjs`, `React`, `JavaScript`
-- 🌱 I’m currently learning more about `Kotlin`, `Go`, and `Typescript`
-- 👯 I’m looking to collaborate on anything related to full-stack development or machine learning!
-- 💬 Ask me about anything!
+- 🔭 I work with anything that includes `JavaScript`
+- 🌱 I’m currently learning more about `Python`, `Go`, and `Rust`
+- 👯 I’m willing to collaborate on anything full-stack or machine learning related
 - 📫 How to reach me: t.lance.mccluskey@gmail.com
 - ⚡ Fun fact: I delivered my daughter myself!
 -->
