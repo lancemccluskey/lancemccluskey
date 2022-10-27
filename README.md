@@ -1,7 +1,4 @@
-# Hi there! I'm Lance 👋 👨🏻‍💻 
-<a href="https://www.linkedin.com/in/t-lance-mccluskey/">
-  <img align="left" alt="Lance's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# Hi there! I'm 👋 👨🏻‍💻 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lancemccluskey.lancemccluskey)
 
@@ -16,6 +13,6 @@
 
 - 🔭 I work with anything related to web development or machine learning
 - 👯 I’m willing to collaborate on anything full-stack or machine learning related
-- 📫 How to reach me: t.lance.mccluskey@gmail.com
+- 📫 How 
 - ⚡ Fun fact: I delivered my daughter myself!
 -->
