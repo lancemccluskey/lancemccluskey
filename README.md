@@ -2,8 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lancemccluskey.lancemccluskey)
 
-![alt text](https://github.com/lancemccluskey/lancemccluskey/blob/main/lance-readme.svg)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lancemccluskey&count_private=true&show_icons=true&theme=algolia" />
 </a>
